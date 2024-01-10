@@ -26,6 +26,7 @@ public class FileTraversal {
                 }
             }
         }
+        
         return filePaths.toArray(new String[filePaths.size()]);
     }
 }
