@@ -21,10 +21,12 @@ public class Main {
                 startLocation = arg.substring(3);
             }
         }
+
         if (startLocation.equals("")) {
             System.out.println("Please specify a start location with -s=");
             System.exit(1);
         }
+
         ArrayList<String> sha256Hashes = new ArrayList<String>();
         ArrayList<String> signatures = new ArrayList<String>();
 
