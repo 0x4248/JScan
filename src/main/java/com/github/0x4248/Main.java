@@ -1,12 +1,12 @@
 /**
  * JScan
  * A MalwareBazaar hash scanner that scans a directory for files that match SHA256 hashes in the MalwareBazaar database.
- * GitHub: https://www.github.com/lewisevans2007/JScan
+ * GitHub: https://www.github.com/0x4248/JScan
  * Licence: GNU General Public License v3.0
- * By: Lewis Evans
+ * By: 0x4248
  */
 
-package com.github.lewisevans2007;
+package com.github.0x4248;
 
 import java.io.*;
 import java.util.ArrayList;
