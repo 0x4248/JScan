@@ -10,4 +10,4 @@ Then run the java class with the argument `-s=<directory>` where `<directory>` i
 
 ## Licence
 
-This project is licenced under the GNU GPL v3.0 licence. See the [LICENCE](eLICENCE) file for more information.
+This project is licenced under the GNU GPL v3.0 licence. See the [LICENCE](LICENCE) file for more information.
